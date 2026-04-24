@@ -28,7 +28,7 @@ Zeigt deine [Umami Analytics](https://umami.is) Statistiken direkt im WordPress-
 1. Neueste Version unter [Releases](https://github.com/phillencolin/wp-umami-dashboard/releases) herunterladen
 2. ZIP im WP-Backend unter Plugins → Installieren → Plugin hochladen installieren
 3. Plugin aktivieren
-4. Unter Einstellungen → Umami Dashboard: URL, Benutzername und Passwort der Umami-Instanz eintragen
+4. Unter Einstellungen → Umami Dashboard: ID, Benutzername und Passwort der Umami-Instanz eintragen
 
 ## Sprache
 
@@ -68,7 +68,7 @@ Displays your [Umami Analytics](https://umami.is) statistics directly in the Wor
 1. Download the latest version from [Releases](https://github.com/phillencolin/wp-umami-dashboard/releases)
 2. Install via WP backend under Plugins → Add New → Upload Plugin
 3. Activate the plugin
-4. Under Settings → Umami Dashboard: enter the URL, username and password of your Umami instance
+4. Under Settings → Umami Dashboard: enter the ID, username and password of your Umami instance
 
 ## Language
 
